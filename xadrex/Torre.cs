@@ -75,7 +75,5 @@ namespace xadrex
 
             return mat;
         }
-
-        
     }
 }
